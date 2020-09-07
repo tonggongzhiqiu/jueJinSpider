@@ -7,3 +7,6 @@ jueJinConetntSpider.py:      用来爬取具体的文章内容
 **db文件夹**：  
   setting.py: 设置数据库参数  
   dataManager.py：数据库操作函数
+  
+tip：  
+在数据库中，需要提前建好表格。
